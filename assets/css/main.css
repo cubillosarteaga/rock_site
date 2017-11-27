@@ -1,0 +1,154 @@
+body{
+	background: #fff;
+	color: #000;
+}
+
+#cabecera{
+	background-color: grey;
+	width: 100%;
+	height: 5%;
+}
+
+.menu{
+  display: inline-block;
+  padding-top: 2px;
+  font-family: 'Open Sans', sans-serif;
+  color: #fff;
+}
+
+.col-3.option{
+  float: right;
+  width: 20%;
+}
+
+.title{
+  color: #fff;
+  font-family: 'Open Sans', sans-serif;
+  padding-left: 40px;
+}
+
+.col-12.text{
+  /*background-image: url('../img/header.jpg');
+  background-repeat: none;
+  background-size: cover;*/
+  color: #fff;
+  text-align: center;
+  width: 100%;
+  height: 330%;
+  font-family: 'Open Sans', sans-serif;
+  
+}
+
+.titulo{
+  font-size: 90px;
+  padding-top: 90px;
+
+}
+
+.subtitulo{
+  font-size: 30px;
+}
+
+.second{
+  background-image: url('../img/header.jpg');
+  background-repeat: no-repeat;
+  margin: 0px;
+  height: 500px;
+  background-size: cover;
+  background-position: center;
+  background-size: 100%;
+  filter: brightness(50%);
+}
+
+.col-6.one{
+  width: 47%;
+}
+.col-6.texto{
+  width: 33%;
+  margin-left: 180px;
+  margin-top: 80px;
+  margin-right: 60px;
+}
+.rock1{
+  border-radius: 50%;
+  margin-top: 40px;
+  width: 400px;
+  height: 400px;
+}
+
+
+.title2{
+  font-size: 50px;
+  font-family:'Open Sans', sans-serif;
+  padding-bottom: 30px;
+
+}
+.subtitle{
+  font-family:'Open Sans', sans-serif;
+}
+
+.col-6.texto3{
+  width: 33%;
+  margin-left: 30px;
+  margin-top: 80px;
+  margin-right: 40px;
+}
+.rock3{
+  border-radius: 50%;
+  margin-top: 40px;
+  width: 400px;
+  height: 400px;
+  margin-left: 160px;
+}
+
+.title3{
+  font-size: 50px;
+  font-family:'Open Sans', sans-serif;
+  padding-bottom: 30px;
+
+}
+.subtitle3{
+  font-family:'Open Sans', sans-serif;
+}
+
+.col-6.two{
+  width: 47%;
+}
+.col-6.texto4{
+  width: 33%;
+  margin-left: 180px;
+  margin-top: 80px;
+  margin-right: 60px;
+}
+.rock2{
+  border-radius: 50%;
+  margin-top: 40px;
+  width: 400px;
+  height: 400px;
+}
+
+
+.title4{
+  font-size: 50px;
+  font-family:'Open Sans', sans-serif;
+  padding-bottom: 30px;
+
+}
+.subtitle4{
+  font-family:'Open Sans', sans-serif;
+}
+
+.footer{
+  height: 30%;
+}
+
+.pie{
+  background-color: grey;
+  color: #fff;
+  font-family:'Open Sans', sans-serif;
+  font-size: 12px;
+  text-align: center;
+}
+.futer{
+  margin-top: 20px;
+}
